@@ -24,7 +24,7 @@ const Hero = () => {
       <div className='max-w-md mb-auto space-y-5'>
         <h1 className='text-5xl font-bold md:text-7xl'>Hello. I’m Frédéric</h1>
         <p className='tracking-wide leading-relaxed'>
-          Curiousity, commitment, and creativity set in my backpack while i’m tripping accross life… I also carry a strong technical background in software engineering, and a growing interest in UX and UI design. The journey is nicer when you meet people, so i’m always glad to share my experience with anybody interested.{' '}
+          Commitment, curiosity, and creativity are deeply settled in my backpack while i’m tripping accross life… I also carry a strong technical background in software engineering, and a growing interest in UX and UI design. The journey is nicer when you meet people, so i’m always glad to share my experience with anybody interested.{' '}
         </p>
       </div>
     </section>

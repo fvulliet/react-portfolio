@@ -8,6 +8,10 @@ const Project = () => {
         <header className='text-2xl font-bold pt-10'>
           <h2>Projects</h2>
         </header>
+        <p>
+          Here are some excerpts from some recent projects i've been working on.
+          After a short description, you'll find a link toward a behance repository which presents some snapshots.
+        </p>
         <div className='my-7 space-y-24'>
           {projects.map((project, index) => (
             <article className='flex flex-wrap md:justify-between md:items-center' key={index}>
