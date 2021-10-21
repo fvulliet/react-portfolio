@@ -6,6 +6,7 @@ const Skill = () => {
       <header className='text-2xl font-bold pt-10'>
         <h2>Skills & Tools</h2>
       </header>
+      <h3>UI</h3>
       <div className='my-7 grid gap-5 grid-cols-3 md:grid-cols-6'>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='CSS 3'>
           <img src='./images/icons/figma.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
@@ -20,6 +21,7 @@ const Skill = () => {
           Photoshop
         </div>
       </div>
+      <h3>software development</h3>
       <div className='my-7 grid gap-5 grid-cols-3 md:grid-cols-6'>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Node Js'>
           <img src='./images/icons/c.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
@@ -50,6 +52,7 @@ const Skill = () => {
           CSS 3
         </div>
       </div>
+      <h3>Continuous Integration</h3>
       <div className='my-7 grid gap-5 grid-cols-3 md:grid-cols-6'>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='CSS 3'>
           <img src='./images/icons/jenkins.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
