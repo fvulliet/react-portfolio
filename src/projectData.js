@@ -2,14 +2,14 @@ const projects = [
   {
     title: 'SOMFY - animeo pro',
     image: './images/animeoPro.jpg',
-    description: '[in progress] a desktop/web/app application dedicated to facility managers and professional installers, to help them managing entire buildings with automation',
+    description: '[in progress] a desktop/web/app application dedicated to facility managers and professional installers, to help them managing entire buildings with automation.',
     tools: ['Qt', 'QML', 'UI design', 'design system'],
     link: 'https://www.behance.net/gallery/129732509/animeo-Pro'
   },
   {
     title: 'SOMFY - animeo Connect OS',
     image: './images/connectOS_landing.jpg',
-    description: 'a desktop application to manage fully automated buildings, in terms of comfort, security, and performance; this application controls all the built-in Somfy devices, configure all the parameters and allow the supervizion of each single zone of the building, but also full levels and facades.',
+    description: 'a desktop application to manage fully automated buildings, in terms of comfort, security, and performance; this application controls all the built-in Somfy devices, configure all the parameters and allow the supervizion of each single zone of the building, but also full floors and facades.',
     tools: ['Figma', 'UI design', 'design system'],
     link: 'https://www.behance.net/gallery/129319731/animeo-Connect'
   },
